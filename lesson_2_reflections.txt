@@ -1,0 +1,5 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+	creates a .git dir, and basically initializes the process for making the current dir a repository
+
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+	kind of a test env, check before commiting
